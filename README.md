@@ -1,4 +1,4 @@
-#   Project 03-analog
+#   Project 03-pwm
 ##  Usando la lectura de un potenciometro conectado al conversor analogico a digital, se varia la luminosidad del LED mediante PWM modulacion por ancho de pulso)
 
 - Proyecto preparado para usar con las siguientes placas:
