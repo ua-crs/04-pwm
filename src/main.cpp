@@ -1,5 +1,5 @@
 /*
- *     main,cpp - Project 04-pwm
+ *     main.cpp - Project 04-pwm
  *
  *         Usando la lectura de un potenciometro conectado
  *         al conversor analogico a digital, se varia
@@ -13,8 +13,12 @@
  *     Definiciones
  */
 
+#if 0
+
 #define STR1(x) #x
 #define STR(x) STR1(x)
+
+#endif
 
 /*
  *     otra forma de definir constantes
